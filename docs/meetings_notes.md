@@ -36,7 +36,7 @@ Agenda:
  Alessandro Tengattini | ILL |
  Anna Fedrigo | ISIS |
  Floriana Salvemini | ANSTO |
- Paul Kienzle | NIST|
+ Paul Kienzle | NIST| software
  Dan Hussey | NIST |
  Gerrit Gunther | Helmholtz |
  Stephen Nneji | ISIS/Mantid |
